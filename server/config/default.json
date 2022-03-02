@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://node-user:AsunWake053123@cluster0.nb2e2.mongodb.net/mernrest?retryWrites=true&w=majority",
+    "JWTSECRET":"JwTs3Cr3t"
+}
